@@ -1,23 +1,24 @@
+// Manuel Leyva
+//Social Media DashBoard
+//3/17/23
+//Peer Review: Aisha Mashrah
+//Review Writeup:The main thing is the dark and light mode and it’s working , 
+//but the cards are not changing when clicking the light or dark mode button but good job on styling everything it was all lined up like the original .Also good job on keeping you code clean.
+
+
+
+
+
+
+
 import logo from './logo.svg';
 import './App.css';
+import Followers from './Components/Followers/Followers';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <Followers />
     </div>
   );
 }

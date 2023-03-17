@@ -1,0 +1,163 @@
+.brColorDark{
+    background-color: hsl(232, 19%, 15%);
+    height: 250px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.brColorLight{
+    background-color: hsl(225, 100%, 98%);
+    height: 250px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+.titleCuz{
+    color: black;
+    padding-top: 3rem;
+    padding-left: 9rem;
+    
+}
+
+.fCuz{
+    color: #9298BB;
+    padding-left: 9rem;
+    
+}
+
+.boxCuz{
+    color: whitesmoke;
+    
+    
+    
+}
+
+.cCuz{
+   padding-top: 3rem;
+   padding-left: 9rem;
+   padding-right: 9rem;
+
+}
+
+.numCuz{
+    color: black;
+    text-align: center;
+}
+
+.folCuz{
+    color: #8087A4;
+    text-align: center;
+}
+
+.iCuz{
+    text-align: center;
+    color: black;
+    position: relative;
+    overflow: hidden;
+}
+
+.topColor{
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    background-color: #168FF8;
+    top: 0%;
+    left: 0%;
+}
+
+.bCuz:hover{
+    background-color: #F0F3FA;
+}
+
+.Cen{
+    text-align: center;
+    color: #48B095;
+}
+
+.instaColor{
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    top: 0%;
+    left: 0%;
+    background: linear-gradient(to right, hsl(37, 97%, 70%), hsl(329, 70%, 58%));;
+}
+
+.youCuz{
+    position: absolute;
+    width: 100%;
+    height: 5px;
+    top: 0%;
+    left: 0%;
+    background-color: #BC082E;
+}
+
+.redCuz{
+    color: #C84354;
+    text-align: center;
+}
+
+.otCuz{
+    padding-top: 3rem;
+    padding-left: 9rem;
+}
+
+.tCuz{
+    color: #66697A;
+}
+
+.cnCuz{
+    padding-left: 9rem;
+   padding-right: 9rem;
+}
+
+.blCuz{
+    display: flex;
+    justify-content: space-between;
+}
+
+.lCuz{
+    padding-left: 5rem;
+}
+
+.pvColor{
+    color: #636572;
+}
+
+.perCuz{
+    padding-left: 18px;
+    padding-top: 8px;
+    color: #48B095;
+}
+
+.pCuz{
+    padding-left: 62px;
+    padding-top: 8px;
+    color: #C84354;
+}
+
+.yCuz{
+    padding-left: 62px;
+    padding-top: 8px;
+    color: #48B095;
+}
+
+.aCuz{
+    padding-left: 35px;
+    padding-top: 8px;
+    color: #48B095;
+}
+
+.swCuz{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5rem;
+    
+}
+
+
+
+
+
+
+
